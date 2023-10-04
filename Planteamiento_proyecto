@@ -1,0 +1,8 @@
+Crear una pantalla similar al SAES para en un futuro intentar realizar una aplicacion movil
+Al inicio estara la pantalla de inicio de sesion que solicitara:
+- Numero de boleta
+- Contraseña
+- Captcha (aun no se si incluirlo)
+Y en la parte de abajo un boton para ingresar
+Si el inicio de sesion fue exitoso mostrara un mensaje que lo diga
+Sin embargo, si no fue exitoso lanzara un mensaje que diga que fue fallido
